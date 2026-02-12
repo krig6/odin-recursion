@@ -1,6 +1,6 @@
-import { fibs } from "./fibs.js";
-import { fibsRec } from "./fibsRec.js";
-import { mergeSort } from "./mergeSort.js";
+import { fibs } from './fibs.js';
+import { fibsRec } from './fibsRec.js';
+import { mergeSort } from './mergeSort.js';
 
 // Demo: Fibonacci(iterative)
 console.log('Fibonacci (iterative):');
