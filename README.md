@@ -47,13 +47,4 @@ This executes the demo in `src/index.js` and prints results for `fibs`, `fibsRec
 
 ## Contributing
 
-Contributions, bug reports, and feature suggestions are welcome!
-
-To contribute:
-
-1. **Fork the repository**
-2. **Create a feature branch**
-3. **Write tests for new functionality**
-4. **Ensure all tests pass**
-5. **Follow the existing code style**
-6. **Submit a pull request**
+This project serves as a learning exercise demonstrating recursion, algorithm design, and problem-solving in JavaScript.
